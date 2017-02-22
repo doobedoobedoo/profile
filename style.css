@@ -1,0 +1,78 @@
+/* Here goes your CSS */
+body {
+  background-color: rgb(235, 235, 235);
+  color: #999999;
+  font-family: 'Open Sans', serif;
+  font-size: 15px;
+  font-weight: 'Helvetica neue 25 ultra light';
+  line-height: 20px;
+}
+
+h1 {
+  color: #C34E4B;
+}
+
+h2 {
+  color: #000000;
+}
+
+h3 {
+  color: #000000;
+}
+
+a {
+  color: #999999;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFCC66;
+}
+
+#red-button {
+  line-height: 60px;
+}
+
+#pp {
+  width: 300px;
+  height: 300px;
+  border-radius: 500px;
+  border: 3px solid #CCCCCC;
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+.card {
+  background: white;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 10px 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.btn-red {
+  color: white;
+  background-color: #000000;
+  padding: 10px 10px;
+  border-radius: 4px;
+}
+
+.icons {
+  font-size: 25px;
+}
